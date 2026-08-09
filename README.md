@@ -1,4 +1,4 @@
-# 🤖 RAG Gen AI
+# 🤖 Chat bot using Amazon Bedrock trough RAG
 
 A **Retrieval-Augmented Generation (RAG) based Generative AI application** that allows users to ask questions about documents and receive context-aware answers using information retrieved from the uploaded knowledge base.
 
